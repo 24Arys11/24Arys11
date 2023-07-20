@@ -11,8 +11,6 @@
     <li>:computer: IT and Tech: software development, robotics :heart:, artificial inteligence, cool tech in general ...</li>
     <li>:violin: Hobbies: cycling, bouldering, crafting something (DIY projects, 3D CAD Modeling, Arduino) ...</li>
     </ul>
-    <li>This GitHub account is for professional personal projects (mostly private repos) !</li>
-    <li>You might like to checkout my <a href="https://github.com/24Arys11" target="blank">Hobby projects github account</a> :wink:</li>
     </ul>
     </h4>
   </td>
