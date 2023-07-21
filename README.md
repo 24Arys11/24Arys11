@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Darius Dima !</h1>
 <table>
   <td>
-    <h4 align="left">
+    <h3 align="left">
     <ul>
     <li>I'm currently working as a software engineer at Robert BOSCH SRL.</li>
     <li> 👀 I’m interested in:</li>
@@ -12,7 +12,7 @@
     <li>:violin: Hobbies: cycling, bouldering, crafting something (DIY projects, 3D CAD Modeling, Arduino) ...</li>
     </ul>
     </ul>
-    </h4>
+    </h3>
   </td>
   <td>
     <img src="https://media.tenor.com/WHWiz3tKZIkAAAAC/robot-new-look.gif"/>
