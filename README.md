@@ -7,9 +7,9 @@
     <li>I'm currently working as a software engineer at Robert BOSCH SRL.</li>
     <li> 👀 I’m interested in:</li>
     <ul>
-    <li>🌱 Self Development: brain development, thinking skills, learning, productivity, innovation, entrepreneurship ...</li>
-    <li>:computer: IT and Tech: software development, robotics :heart:, artificial inteligence, cool tech in general ...</li>
-    <li>:violin: Hobbies: cycling, bouldering, crafting something (DIY projects, 3D CAD Modeling, Arduino) ...</li>
+    <li>🌱 Self Development: brain development, thinking skills, innovation, productivity, entrepreneurship and learning new things.</li>
+    <li>:computer: IT and Tech: software development, robotics :heart:, artificial inteligence and cool tech in general.</li>
+    <li>:violin: Hobbies: cycling, bouldering, crafting something (DIY projects, 3D CAD Modeling, Arduino).</li>
     </ul>
     </ul>
     </h3>
