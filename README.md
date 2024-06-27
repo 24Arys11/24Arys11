@@ -4,7 +4,7 @@
   <td>
     <h3 align="left">
     <ul>
-    <li>I'm currently working as a software engineer at Robert BOSCH SRL.</li>
+    <li>I'm currently working as a software engineer at Robert BOSCH GMBH.</li>
     <li> 👀 I’m interested in:</li>
     <ul>
     <li>🌱 Self Development: brain development, thinking skills, innovation, productivity, entrepreneurship and learning new things.</li>
