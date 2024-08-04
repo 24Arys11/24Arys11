@@ -19,7 +19,7 @@
   </td>
 </table>
 
-<h2 align="center"><a href="./CV-RO/CV_RO_Signed.pdf">My CV HERE !</a></h2>
+<h2 align="center"><a href="./CV-EN/CV_EN_Signed.pdf">My CV HERE !</a></h2>
 
 <h3 align="center">Connect with me on: </br>
 <a href="https://linkedin.com/in/darius-dima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darius-dima" height="30" width="40" /></a>
