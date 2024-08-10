@@ -36,7 +36,7 @@
 	urlcolor=blue
 }
 
-\newcommand{\address}{Bucure\c{s}ti, RO}
+\newcommand{\address}{Cluj-Napoca, RO}
 \newcommand{\phone}{+40 771 409 126}
 \newcommand{\mail}{darius.dimaa@gmail.com}
 \newcommand{\github}{https://github.com/24Arys11}
@@ -82,25 +82,26 @@
 [\titlerule]
 
 \titlespacing{\section}
-{0em}{0.75em}{0.4em}
+{0em}{0.5em}{0.4em}
 
 % -------------------------------------------------------------- CUSTOMIZING THE ENTRIES --------------------------------------------------------------
 
 \newcommand{\entry}[5]	% 1. time, 2. place, 3. role, 4. institution, 5. description
 {
-\vspace{0.5em}
+\vspace{0.05em}
+\normalsize
+\uline{\textbf{#3} \hfill at \textit{#4}}\\
 \noindent
 \begin{minipage}{0.1\textwidth}
-\raggedright
-\normalsize
-#1\\
-#2
+	\raggedright
+	\hfill \\
+	#1\\
+	#2
 \end{minipage}
 \hfill
-\begin{minipage}{0.88\textwidth}
-\normalsize
-\uline{\textbf{#3} \hfill at \textit{#4}}
-#5
+\begin{minipage}{0.89\textwidth}
+	#5
+	\vspace{0.4em}
 \end{minipage}
 }
 
@@ -116,7 +117,7 @@
 
 \newcommand{\project}[3]		% 1. name, 2. link, 3. description
 {
-\vspace{0.3em}
+\vspace{0.15em}
 \noindent
 \normalsize
 \ding{224} \href{#2}{\uline{#1:}}#3
